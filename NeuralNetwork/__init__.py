@@ -1,0 +1,2 @@
+from NEAT.NeuralNetwork.FeedForward import FeedForwardNetwork
+from NEAT.NeuralNetwork.Recurrent import RecurrentNetwork
